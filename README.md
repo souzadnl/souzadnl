@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Daniels's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzadnl&theme=dark&show_icons=true)
-![Daniels's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=souzadnl&hide=html&layout=compact&theme=dark)
+![Daniels's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=souzadnl&hide=html&layout=compact&theme=vue)
 <!--
 **souzadnl/souzadnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
